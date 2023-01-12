@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator.API", "Translator.API\Translator.API.csproj", "{988AFB8E-D13F-486A-8960-0AE9965F5A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator.SharedLibary", "Translator.SharedLibary\Translator.SharedLibary.csproj", "{FB0DB5F6-BCC1-4686-B6D8-9408B7A79D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988AFB8E-D13F-486A-8960-0AE9965F5A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988AFB8E-D13F-486A-8960-0AE9965F5A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988AFB8E-D13F-486A-8960-0AE9965F5A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988AFB8E-D13F-486A-8960-0AE9965F5A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0DB5F6-BCC1-4686-B6D8-9408B7A79D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0DB5F6-BCC1-4686-B6D8-9408B7A79D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0DB5F6-BCC1-4686-B6D8-9408B7A79D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0DB5F6-BCC1-4686-B6D8-9408B7A79D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E9AD6F-B112-4628-86C7-9FD2E82BFFD3}
+	EndGlobalSection
+EndGlobal
